@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '',
+    'database_name' => 'sport',
+    'database_user' => 'root',
+    'database_password' => '',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'd9kXhwXIoBipGDAMIyJ2nx1BcYotHMTo7UefRxZDo5949guRe0wkh3vOdDsPtxTC',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2024-12-04',
+    'locale' => 'en-US',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'UGWrYfL1k0DK8w1mkaUvouyYFCm247qnxNxsi0dcViQoO57bj2ZLnnrL8UUe2Jkx',
+    'cookie_iv' => 'yVwC5o21YrdQwhRhgXNUWEB2cNTBaIqS',
+    'new_cookie_key' => 'def00000c0d47e263435925a31b1c6cff4b92ae4d9e464984799c4ff25d389ee585bb328ae776586dd17c861317d896fbb3f6a760e007a3d98d327573ab31b2db7bc6324',
+  ),
+);
